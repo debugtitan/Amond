@@ -40,10 +40,10 @@ export default function Testimonial() {
           <Text
             color={"primary"}
             fontSize={{ md: "xxx-large", base: "small" }}>
-            “I've tried other financial advisors in the pas
-            t, but none compare to Amond. Their transparent
-            approach and commitment to excellence have
-            earned my trust for life.”
+            “I've tried other financial advisors in the
+            past, but none compare to Amond. Their
+            transparent approach and commitment to
+            excellence have earned my trust for life.”
           </Text>
           <Text
             color={"primary"}
